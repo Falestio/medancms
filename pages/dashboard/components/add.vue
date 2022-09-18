@@ -5,7 +5,7 @@
         <div class="modal">
             <div class="modal-box max-w-4xl relative p-0">
                 <div class="p-6 bg-base-200 flex justify-between">
-                    <p class="text-xl font-bold">Add fields for Article</p>
+                    <p class="text-xl font-bold">Add new Component</p>
                     <label for="add-field-modal" class="btn btn-sm btn-circle">✕</label>
                 </div>
                 <div class="p-6">
@@ -113,7 +113,7 @@
         </div>
 
         <div class="flex items-center gap-8">
-            <h1 class="text-2xl font-bold">Add new collection</h1>
+            <h1 class="text-2xl font-bold">Add new component</h1>
             <button class="btn btn-primary btn-sm">Save</button>
         </div>
         <div class="shadow rounded p-4 flex flex-col gap-8">

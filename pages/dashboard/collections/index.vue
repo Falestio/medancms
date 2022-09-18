@@ -1,5 +1,3 @@
 <script setup>
-    onMounted(() => {
-        abortNavigation()      
-    })
+    navigateTo({path:'/add'})
 </script>

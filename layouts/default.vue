@@ -14,13 +14,13 @@
                 <NuxtLink class="text-2xl font-bold" to="/dashboard">MedanCMS</NuxtLink>
 
                 <div class="flex flex-col gap-4">
-                    <NuxtLink to="/dashboard/collections" class="flex gap-2 items-center p-2 hover:bg-base-300 cursor-pointer">
+                    <NuxtLink to="/dashboard/collections/add" class="flex gap-2 items-center p-2 hover:bg-base-300 cursor-pointer">
                         <svg width="20" height="20" viewBox="0 0 24 24">
                             <path fill="currentColor" d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2Z" />
                         </svg>
                         <span class="font-bold">Add Collection</span>
                     </NuxtLink>
-                    <NuxtLink to="/dashboard/components" class="flex gap-2 items-center p-2 hover:bg-base-300 cursor-pointer">
+                    <NuxtLink to="/dashboard/components/add" class="flex gap-2 items-center p-2 hover:bg-base-300 cursor-pointer">
                         <svg width="20" height="20" viewBox="0 0 24 24">
                             <path fill="currentColor" d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2Z" />
                         </svg>
